@@ -9,10 +9,12 @@ strings = ["one", "three", "five", "seven", "eleven", "eighteen"]
 
 
 # TODO: The min() function finds the minimum value
-
+print(f'minimum value of numbers is : {min(values)}')
+print(f'minimum value of chars is : {min(strings)}')
 
 # TODO: The max() function finds the maximum value
-
+print(f'maximum value of numbers is : {max(values)}')
+print(f'maximum value of chars is : {max(strings)}')
 
 # TODO: define a custom "key" function to extract a data field
 
